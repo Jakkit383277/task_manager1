@@ -1,0 +1,28 @@
+[
+  {
+    "type": "regular",
+    "id": "1",
+    "title": "Learn Dart Basics",
+    "description": "",
+    "dueDate": "2025-11-26T13:52:03.980322",
+    "isCompleted": false
+  },
+  {
+    "type": "priority",
+    "id": "2",
+    "title": "Fix Critical Bug",
+    "description": "",
+    "dueDate": "2025-11-24T18:52:03.982809",
+    "isCompleted": false,
+    "priority": 1
+  },
+  {
+    "type": "recurring",
+    "id": "3",
+    "title": "Weekly Meeting",
+    "description": "",
+    "dueDate": "2025-11-24T13:52:03.982809",
+    "isCompleted": false,
+    "intervalDays": 7
+  }
+]
